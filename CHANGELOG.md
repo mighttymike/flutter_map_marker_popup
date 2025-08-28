@@ -1,3 +1,7 @@
+## 8.1.0 - 28/08/25
+
+* CHORE: flutter_map 8.2.0
+
 ## 8.0.1 - 28/04/25
 
 * BUGFIX: Fix a bug that prevented markers from being shown

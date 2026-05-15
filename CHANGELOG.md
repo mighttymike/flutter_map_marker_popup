@@ -1,3 +1,7 @@
+## 8.1.1 - 15/05/26
+
+* CHORE: Loosen latlong2 constraint to allow new version
+
 ## 8.1.0 - 28/08/25
 
 * CHORE: flutter_map 8.2.0
